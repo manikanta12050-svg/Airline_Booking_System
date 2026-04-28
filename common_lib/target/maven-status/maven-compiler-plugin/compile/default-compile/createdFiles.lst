@@ -1,0 +1,8 @@
+com\zosh\CommonLibApplication.class
+com\zosh\embeddable\Address.class
+com\zosh\embeddable\GeoCode.class
+com\zosh\payload\response\ApiResponse.class
+com\zosh\payload\response\AirportResponse.class
+com\zosh\payload\request\CityRequest.class
+com\zosh\payload\response\CityResponse.class
+com\zosh\payload\request\AirportRequest.class
