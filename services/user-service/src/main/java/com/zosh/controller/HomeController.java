@@ -10,6 +10,6 @@ public class HomeController {
     @GetMapping
     public ApiResponse homeController() {
         ApiResponse apiResponse = new ApiResponse("hey everyone I am User service of Airline System",true);
-        return apiResponse; //responseBody
+        return apiResponse; //Deleted response body
     }
 }
